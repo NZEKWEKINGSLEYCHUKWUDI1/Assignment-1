@@ -24,4 +24,4 @@ Age: 27 years old
 ```
 
 #### Author
-This script was authored by [Your Name].￼Enter
+This script was authored by [NZEKWE KINGSLEY CHUKWUDI].￼Enter
